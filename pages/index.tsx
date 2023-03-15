@@ -26,7 +26,7 @@ function Clock() {
       height={212}
       viewBox="0 0 213 212"
       fill="none"
-      className="scale-[3]"
+      className="scale-[2]"
     >
       <g clipPath="url(#clip0_1_3)">
         <path fill="#fff" d="M0 0H212.162V211.275H0z" />
